@@ -1,0 +1,20 @@
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos temporários
+*.tmp
+*.log
+last_update_check.txt
+
+# Modelo YOLO (muito grande)
+# best.pt
+
+# Ambiente virtual
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/

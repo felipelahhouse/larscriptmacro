@@ -1,0 +1,40 @@
+{
+    "current_weapon": "AR",
+    "activation_button": "LEFT",
+    "ar_config": {
+        "sensitivity": 2.0,
+        "MovementCoefficientX": 0.9,
+        "MovementCoefficientY": 0.9,
+        "movementSteps": 3.0,
+        "delay": 0.002,
+        "radius": 500.0,
+        "confidence_threshold": 0.05,
+        "head_offset_factor": 0.26,
+        "recoil_control": true,
+        "recoil_strength": 8.0,
+        "smooth_factor": 0.6,
+        "acceleration": 1.5,
+        "prediction_enabled": true,
+        "aimlock_strength": 0.2
+    },
+    "dmr_config": {
+        "sensitivity": 1.5,
+        "MovementCoefficientX": 0.45,
+        "MovementCoefficientY": 0.5,
+        "movementSteps": 4.0,
+        "delay": 0.0,
+        "radius": 450.0,
+        "confidence_threshold": 0.05,
+        "head_offset_factor": 0.12,
+        "target_body_part": "neck",
+        "recoil_control": true,
+        "recoil_strength": 5.0,
+        "smooth_factor": 0.5,
+        "acceleration": 1.8,
+        "prediction_enabled": true,
+        "aimlock_strength": 0.65
+    },
+    "offset_x": 0,
+    "offset_y": 0,
+    "aimbot_enabled": true
+}
